@@ -1,0 +1,14 @@
+name: platform-team
+
+repos:
+  - org/repo-a
+  - org/repo-b
+
+members:
+  - alice
+  - bob
+  - carol
+
+service_accounts:
+  - renovate-bot
+  - github-actions[bot]
